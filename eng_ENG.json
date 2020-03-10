@@ -1,0 +1,8 @@
+{
+    "menu":[
+        "Start","Options","Authors","Exit"
+    ],
+    "options":[
+        "Exit" ,"RUS","ENG"
+    ]
+}
